@@ -1,6 +1,6 @@
 # Equity News Querying Tool
-Using langchain, the OpenAI API, and streamlit via Python to build a news research tool.
-### Chat with a customized online document repository!
+Using langchain, the OpenAI API, and streamlit via Python to build a research tool that draws insights from a custom news knowledge-base.
+
 
 On the user interface (web-app), enter 3 links of websites containing the news you need to analyze (limit can be increased if needed).
 
